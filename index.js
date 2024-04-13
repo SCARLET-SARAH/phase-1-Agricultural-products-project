@@ -1,4 +1,4 @@
-let apiURL = "https://localhost:3000"
+let apiURL = "https://phase-1-agricultural-products-project-1.onrender.com"
 
 const fetchData = () => {
     fetch(apiURL)
