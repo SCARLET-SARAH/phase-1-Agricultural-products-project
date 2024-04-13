@@ -1,0 +1,22 @@
+{
+    "blogposts": [
+      {
+        "id": 1,
+        "title": "Purchases Offered",
+        "content": "Welcome to my farm where you can conveniently purchase a variety of fresh vegetables, eggs, and meat, all of the highest quality.I prioritize providing superior goods to the customers. Your satisfaction is my priority, so feel free to place your order and share any feedback or comments you may have about the services.I value your opinion and strive to continually improve the offerings.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRLiTwcUQGanxpF-kCoDV2hIG6J61egVEp5Q&s"
+      },
+      {
+        "id": 2,
+        "title": "Tender application",
+        "content": "Attention all! The farm is in need of various services and goods. If you have skills or products that could be benefitial, please don't hesitate to reach out. Simply comment with your offerings and requests, and it will be into consideration on how we can work together. Your contributions are greatly appreciated as the aim is to enhance farm operations.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpCMoPHK1ArWUzL1XHF4yWDLcH_PNWVvG-cw&s"
+      },
+      {
+        "id": 3,
+        "title": "About farm",
+        "content": "Join us at the farm for hands-on training sessions on bird vaccination techniques. We take pride in offering premium chicken meat and eggs at affordable prices. For inquiries or orders, please contact me via email at sarahscarlet641@gmail.com. You're also welcome to visit the farm in person to ask questions or share your feedback. Looking forward to connecting with you!",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSvrZ3B5z0hNdu6h1XPPZ4QwpsArNKYLPP9A&s"
+      }
+    ]
+  }
